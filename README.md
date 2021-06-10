@@ -1,7 +1,7 @@
 # venom
-practice Glo Academy
-use:
-CSS;
-HTML;
-Normalize;
-JavaScript;
+# practice Glo Academy
+# use:
+ CSS;
+ HTML;
+ Normalize;
+ JavaScript;
